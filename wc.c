@@ -1,4 +1,8 @@
- /* Sample implementation of wc utility. */
+/**
+* @file myheader.h
+* @brief provides stuff for program
+*/ 
+/* Sample implementation of wc utility. */
      
      #include <stdlib.h>
      #include <stdio.h>
